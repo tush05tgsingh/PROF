@@ -1,2 +1,2 @@
 # PROF
-A software for teacher assistance
+A software for Professor assistance
